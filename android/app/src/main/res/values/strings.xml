@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">eFortuneMall Magazine</string>
+    <string name="title_activity_main">eFortuneMall Magazine</string>
+    <string name="package_name">com.efortunemall.magazine</string>
+    <string name="custom_url_scheme">com.efortunemall.magazine</string>
+</resources>

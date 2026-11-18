@@ -1,0 +1,8 @@
+{
+  "appId": "com.efortunemall.magazine",
+  "appName": "eFortuneMall Magazine",
+  "webDir": "www",
+  "server": {
+    "url": "https://efortunemallmagazine.com"
+  }
+}
